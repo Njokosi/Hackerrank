@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hackerrank"
+name = "interview_practise"
 version = "0.1.0"
 description = ""
 authors = ["Njokosi Kawunju <n.kawunju@zuno-ai.com>"]
